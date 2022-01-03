@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "ismail",
+      "email": "ismail@1223",
+      "pno": "1111111234567"
+    },
+    {
+      "name": "reddy",
+      "email": "ismail@1223",
+      "pno": "1111111234567",
+      "id": 3
+    }
+  ],
+  "mano": [
+    {
+      "id": 1,
+      "name": "ismail",
+      "email": "ismail@1223",
+      "pno": "1111111234567"
+    },
+    {
+      "name": "reddy",
+      "email": "ismail@1223",
+      "pno": "1111111234567",
+      "id": 3
+    },
+    {
+      "id": 2,
+      "name": "ismail reddy",
+      "email": "ismail@1223",
+      "pno": "1111111234567"
+    },
+    {
+      "name": "bdgn ncdvujn ",
+      "email": "our.link@yahoo.com",
+      "pno": "124567",
+      "id": 4
+    },
+    {
+      "name": "bdgn ncdvujn ",
+      "email": "our.link@yahoo.com",
+      "pno": "234567",
+      "id": 5
+    },
+    {
+      "name": "bdgn ncdvujn ",
+      "email": "our.link@yahoo.com",
+      "pno": "11111234567",
+      "id": 6
+    }
+  ]
+}
